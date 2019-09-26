@@ -3,6 +3,8 @@ A simple java program that can be used to add movie titles to a text file and al
 
 In order to use this very simple program all you need to do is download the .exe file and save it in a folder so that it can create the "hat.txt" file and you are good to go.
 
+If you need to update your JRE to run the program launch4j should prompt you to the update page.
+
 Resources I Used:
 
 https://www.leepoint.net/JavaBasics/index.html as a guide for creating the simple window.
